@@ -27,3 +27,11 @@ __pycache__
 .idea
 
 sql/test_db
+*.txt
+config/example/config.toml
+config/example/custom_items.json
+config/example/custom_sprites.json
+config/example/lore.html
+config/example/rules.html
+config/example/warnings/heads.html
+config/example/warnings/newcomers.html

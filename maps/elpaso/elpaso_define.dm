@@ -8,19 +8,7 @@
 	)
 
 	map_levels = list(
-		new /datum/space_level/el_paso,
-		new /datum/space_level/null_space,
-		new /datum/space_level/telecomms,
-		new /datum/space_level/construction_site,
-		new /datum/space_level/snow_asteroid,
-		new /datum/space_level/derelict,
-		new /datum/space_level/bearcat_1,
-		new /datum/space_level/bearcat_2,
-		new /datum/space_level/jungle_level,
-		new /datum/space_level/old_restaurant,
-		new /datum/space_level/sensor_array,
-		new /datum/space_level/science_ship_1,
-		new /datum/space_level/science_ship_2
+		new /datum/space_level/el_paso_1
 	)
 
 	station_name  = "Town Of El Paso"
